@@ -17,10 +17,10 @@ This is the **public-facing repository** for AIVory Smart Inference. The source 
 
 Use this repository to:
 
-- **Report bugs** -- Found an issue? [Open a bug report](https://github.com/aivorynet/smart-inference/issues/new)
-- **Request features** -- Have an idea? [Start a discussion](https://github.com/aivorynet/smart-inference/issues/new)
-- **Ask questions** -- Need help or clarification? [Open an issue](https://github.com/aivorynet/smart-inference/issues/new)
-- **Share feedback** -- We want to hear from you
+- **Report bugs** - Found an issue? [Open a bug report](https://github.com/aivorynet/smart-inference/issues/new)
+- **Request features** - Have an idea? [Start a discussion](https://github.com/aivorynet/smart-inference/issues/new)
+- **Ask questions** - Need help or clarification? [Open an issue](https://github.com/aivorynet/smart-inference/issues/new)
+- **Share feedback** - We want to hear from you!!!!
 
 ## Links
 
